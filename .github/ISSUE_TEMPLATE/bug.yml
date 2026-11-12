@@ -1,0 +1,31 @@
+name: Bug
+description: Algo não funcionou como deveria
+labels: ["bug"]
+body:
+  - type: textarea
+    id: o-que
+    attributes:
+      label: O que aconteceu?
+      description: Conte o que você fez e o que aconteceu. Se puder, mande um print.
+    validations:
+      required: true
+  - type: input
+    id: celular
+    attributes:
+      label: Celular
+      placeholder: "Ex.: Galaxy A54, Poco X6"
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do app
+      description: Fica no rodapé da tela inicial do app.
+      placeholder: "Ex.: v1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: patch
+    attributes:
+      label: Patch
+      placeholder: "Ex.: CLZ Leagues Patch DB 26-27 V6.1"
