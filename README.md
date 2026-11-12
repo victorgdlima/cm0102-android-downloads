@@ -26,7 +26,7 @@ Na página que abrir, toque em **CM0102-vX.X.X.apk**, em *Assets*, e abra o arqu
 ## Como instalar
 
 1. Copie a pasta do seu CM 01/02 com o patch instalado (ou um arquivo compactado dela) para o celular. Serve o CLZ Leagues Patch ou outro.
-2. Baixe o APK e abra. O Android pede para permitir a instalação de fontes desconhecidas.
+2. Baixe o APK e abra. O Android pede para permitir a instalação de fontes desconhecidas. Se o Play Protect avisar que bloqueou o app, toque em **Mais detalhes** e depois em **Instalar mesmo assim**. O aviso aparece porque o app não vem da Play Store.
 3. Na primeira abertura, o app pede acesso ao armazenamento, acha a pasta e monta tudo.
 4. Toque em Jogar.
 
