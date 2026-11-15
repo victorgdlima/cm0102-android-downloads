@@ -1,0 +1,14 @@
+{
+  "versao": 1,
+  "patches": [
+    {
+      "nome": "CLZ Leagues Patch (DB 26-27) V6.1",
+      "testado": "2026-11-14: abrir, carreira nova, avançar dias, salvar e carregar (Flip5, motor normal)",
+      "exe": "9eb91f6f1675e0ed5cda7cbe7824568f2afc73d15982cbb7971edcc3d18c235b",
+      "dlls": {
+        "lamohatescd.dll": "8e341217a77341fff940a7df8d930a815fd2bea8c7cc012c2990ae537b33864d",
+        "nickdll.dll": "09cdf128dce11b2a2442c3abd3f33d377f8b17739033a28650bcbdc1218dc713"
+      }
+    }
+  ]
+}
