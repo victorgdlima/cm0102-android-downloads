@@ -10,5 +10,31 @@
         "nickdll.dll": "09cdf128dce11b2a2442c3abd3f33d377f8b17739033a28650bcbdc1218dc713"
       }
     }
+  ],
+  "conhecidos": [],
+  "mods": [
+    {
+      "nome": "Match Recorder",
+      "nota": "NickDLL com gravador de jogos e animações (MatchRecorder.ini); carrega a do Nick de NickDLL_original\\",
+      "arquivos": {
+        "nickdll.dll": "479c549e7344b0957abe2fe1aa344db93df640fab169e48c48262d0ebdc1e905"
+      },
+      "receita": {
+        "nome": "Match Recorder",
+        "nick_original": "NickDLL_original/NickDLL.dll",
+        "resolucao": "800x600",
+        "ini": {
+          "MatchRecorder.ini": {
+            "criar_liga": "0",
+            "diagnostico": "0",
+            "sonda": "0"
+          }
+        },
+        "avisos": [
+          "As animações dos lances só aparecem com o jogo em 800×600.",
+          "A Liga Next Gen (criar_liga) foi feita para a carreira do autor e dá erro em outros patches."
+        ]
+      }
+    }
   ]
 }
