@@ -25,14 +25,13 @@
         "resolucao": "800x600",
         "ini": {
           "MatchRecorder.ini": {
-            "criar_liga": "0",
             "diagnostico": "0",
             "sonda": "0"
           }
         },
         "avisos": [
           "As animações dos lances só aparecem com o jogo em 800×600.",
-          "A Liga Next Gen (criar_liga) foi feita para a carreira do autor e dá erro em outros patches."
+          "A Liga Next Gen (criar_liga) só é criada se a base tiver essa competição; nas outras, não mexe em nada."
         ]
       }
     },
