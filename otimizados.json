@@ -15,6 +15,29 @@
   "mods": [
     {
       "nome": "Match Recorder",
+      "nota": "v96d10 (transferências só para o dono do passe). NickDLL com gravador de jogos e animações (MatchRecorder.ini); carrega a do Nick de NickDLL_original\\",
+      "arquivos": {
+        "nickdll.dll": "2c41c69d35c01d5d7beb094f21ea50fad09a87907bbe3ae75f375346daf14d79"
+      },
+      "receita": {
+        "nome": "Match Recorder",
+        "nick_original": "NickDLL_original/NickDLL.dll",
+        "resolucao": "800x600",
+        "ini": {
+          "MatchRecorder.ini": {
+            "criar_liga": "0",
+            "diagnostico": "0",
+            "sonda": "0"
+          }
+        },
+        "avisos": [
+          "As animações dos lances só aparecem com o jogo em 800×600.",
+          "A Liga Next Gen (criar_liga) foi feita para a carreira do autor e dá erro em outros patches."
+        ]
+      }
+    },
+    {
+      "nome": "Match Recorder",
       "nota": "NickDLL com gravador de jogos e animações (MatchRecorder.ini); carrega a do Nick de NickDLL_original\\",
       "arquivos": {
         "nickdll.dll": "479c549e7344b0957abe2fe1aa344db93df640fab169e48c48262d0ebdc1e905"
